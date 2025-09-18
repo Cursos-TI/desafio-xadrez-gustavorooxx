@@ -96,6 +96,7 @@ int main()
     // Sugestão: Implemente a movimentação do Cavalo utilizando loops com variáveis múltiplas e condições avançadas.
     // Inclua o uso de continue e break dentro dos loops.
     printf("Movimentação Cavalo 2:\n");
+    // Loop externo para o movimento vertical (2 casas)
     for (mov_vertical = 1; mov_vertical <= 2; mov_vertical++)
     {
         // Usando 'continue' para demonstrar a primeira parte do movimento em L (2 casas na vertical)
